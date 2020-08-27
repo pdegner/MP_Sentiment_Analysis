@@ -5,7 +5,7 @@ output: html_document
 # About this project
 
 ### Goal
-The goal of this project is to analyze the sentiment of the forums on www.MountainProject.com to determine which climbing gear is thought to be the best. 
+The goal of this project is to analyze the sentiment of the forums on www.MountainProject.com to determine which climbing gear is thought to be the best. This was a solo project.
 
 ### Method
 I scraped 116,000+ routes from Mountain Project and 1,100 gear reviews from www.Trailspace.com. I used this labeled data to train a deep learning model using DistilBERT that would classify the forum posts as positive, negative, or neutral. 

@@ -7,7 +7,7 @@ output: html_document
 # Explanation of files
 
 #### A note about small_data
-My dataset was too large to upload to GitHub. So, I took the first 10000 examples from each and put it into the folder called small_data. If you want to clone this REPO and run this code, change the name of the foler to data. 
+My dataset was too large to upload to GitHub. So, I took the first 10000 examples from each and put it into the folder called small_data. If you want to clone this REPO and run this code, change the name of the foler to data. The full dataset is now on Kaggle: https://www.kaggle.com/pdegner/mountain-project-rotues-and-forums
 
 
 ### Scraping files
